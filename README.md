@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Developers!
+
+George here, I like python and and Django Im looking forward to create awesome new web app.
